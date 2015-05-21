@@ -15,6 +15,6 @@ si vous êtes interressés, contactez moi par mail pour une adaptation à votre 
 
 keywords :
 PHP, PDO, SQL, MySQL, PostgreSQL, Postgres, SQLite, 
-PrestaShop, Presta Shop, WebService PrestaShop, PrestaShop WebService, 
+PrestaShop, Presta Shop, WebService PrestaShop, PrestaShop WebService, prestashop web service, 
 
 merci
