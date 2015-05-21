@@ -1,4 +1,4 @@
-# PrestaShop-WebService-REST
+# script d'export base de données SQL vers PrestaShop Web Service
 PrestaShop WebService REST
 
 Bonjour,
